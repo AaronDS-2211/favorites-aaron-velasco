@@ -1,0 +1,21 @@
+html
+ {background-color: aqua;
+
+}
+.my-favorite-images
+{color: rgb(18, 107, 79);}
+h2
+{color: blueviolet;}
+h1
+{color:rgb(252, 134, 31);}
+
+ol
+{color:blue;}
+{list-style-type:circle;}
+
+{margin: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+p {
+    margin: 20px;
+}
